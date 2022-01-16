@@ -1,0 +1,82 @@
+[beginning]
+I'm here out of nowhere. I don't know where I am. I don't know where I was. I don't know why I'm here. I'm just ... here.
+I don't even know my name. I think I can remember. I think I can remember my name. My name is ...
+I can't remember.
+I don't know what I'm doing. I don't know what I'm doing. I don't know what I'm doing.
+
+... [talk]
+
+[talk]
+Maybe I should talk to someone.
+
+Go to the library [library]
+Go to the park [park]
+Go to the house [house]
+Go to the school [school]
+
+[library]
+I'm in the library. There should be people here.
+I see the librarian over there. I should talk to him.
+Me: Excuse me. Do you know where this is? I'm kinda lost here.
+Librarian: 
+Me: I'm looking for a book.
+
+Go to the west hall [west hall]
+Go to the east hall [east hall]
+
+[park]
+I'm in the park
+
+... [empty]
+
+[house]
+I'm in front of the house. There's something about this house. I don't know what it is.
+I feel like I've been here before. I feel like I've known this place before.
+Is this my house? I don't know.
+Wait, there's something in my pocket.
+
+Check the pocket [pocket]
+
+[pocket]
+I put my hands in my pocket. There's a key inside. I should take it.
+I take the key, and use it on the front door.
+
+Go inside the house [inside house]
+
+[inside house]
+I go inside the house. There's someone inside. I should talk to her.
+???: You're finnaly home. Where were you these days?
+Me: I also don't know where I was. Who are you?
+???: Who am I? Are you trying to troll me? Do you really don't know who I am?
+Me: I don't know. I don't know.
+???: What does that even mean? I raised you. How could you forget?
+Me: Are you supposed to be my mother or something?
+???: I'm your mom, you idiot! I'm your mom!
+Me: Mom?
+Mom: What else, you dumbass? Of course I am!
+
+... [house choice]
+
+[house choice]
+Me: I'm sorry.
+Me: I'm confused.
+Me: I think I should go.
+Mom: Where the **** you think you're going?! Come back here!
+
+Go outside the house [outside from house]
+Stay inside [stay inside house]
+
+[stay inside house]
+I stay inside the house.
+
+... [house choice]
+
+[outside from house]
+I go outside the house. I think that was wrong. I don't know what to do.
+
+... [talk]
+
+[school]
+I'm in the school
+
+... [empty]
