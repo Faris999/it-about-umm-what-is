@@ -24,6 +24,39 @@ Me: I'm looking for a book.
 Go to the west hall [west hall]
 Go to the east hall [east hall]
 
+[west hall]
+I walk into the west hall. I don't know what I'm looking for.
+Why did I say I was looking for a book?
+I see a book on the table. I should take it.
+I look at the book. The title is "... it about, umm, what is ...".
+I open the book, it says, "I'm here out of nowhere. I don't know where I am. I don't know where I was."
+Wait, I said that before. Is that?
+I immediately close the book. I'm scared.
+How could it contain exactly what I said earlier?
+
+Go back to the main hall [library]
+Go to the east hall [east hall]
+Go outside [talk]
+
+[east hall]
+I walk into the east hall. I see a girl sitting down just there.
+I approached her, and say hello to her.
+Me: Hello, can I ask you something?
+Girl: Can't you see I'm reading right now?
+Me: I'm sorry, but this is urgent. I need to ask you something.
+Girl: Ugh, what is it? Better be quick.
+Me: Can you tell me where I am? I'm kinda lost in here.
+Girl: You're in the ??? city public library.
+Me: I'm sorry, what city?
+Girl: ??? city.
+Me: Is it just me or are you mumbling?
+Girl: Are you saying I can't talk? How dare you insult me like that!
+Me: I'm, I'm sorry. I should go.
+
+Go back to the main hall [library]
+Go to the west hall [west hall]
+Go outside [talk]
+
 [park]
 I'm in the park
 
