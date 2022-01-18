@@ -62,9 +62,37 @@ Go to the west hall [west hall]
 Go outside [talk]
 
 [park]
-I'm in the park
+I'm in the park. The weather is nice today.
+I should take a walk around the park.
+I walk around the park. I see a bunch of people.
+I see a bench in the middle of the park. Maybe I should sit down.
 
-... [empty]
+Sit on the bench [bench]
+Go back [talk]
+
+[bench]
+I sit on the bench alone.
+Someone's approaching me, and sits on the bench. I should say hello to them.
+Me: Hello, can I ask you something?
+Someone: Have we had this conversation before?
+Me: Not that I could think of. Wait—
+Someone: What is it were you gonna ask?
+Me: I don't know. I'm just trying to find out.
+Someone: Well, I'm just wondering, where are you from?
+Me: Where am I from? I can't remember.
+Someone: Well, I'm from the ??? city.
+Me: What city?
+Someone: ??? city.
+Me: I'm sorry, what city?
+Someone: ??? city.
+Me: I can't hear you clearly. I'm sorry. I should go.
+Someone: Can't you stop being so rude, man?!
+I stand up from the bench and go away.
+Why were they mad at me for no reason?
+Maybe I should go somewhere else.
+
+Go back to the main park area [park]
+Go somewhere else [talk]
 
 [house]
 I'm in front of the house. There's something about this house. I don't know what it is.
