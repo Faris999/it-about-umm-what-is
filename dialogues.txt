@@ -18,8 +18,12 @@ Go to the school [school]
 I'm in the library. There should be people here.
 I see the librarian over there. I should talk to him.
 Me: Excuse me. Do you know where this is? I'm kinda lost here.
-Librarian: 
-Me: I'm looking for a book.
+Librarian: Do I look like a guide to you? I'm a librarian!
+Me: Okay, then, I'm looking for a book.
+Librarian: What kind of book? I can't show you if you're not being specific.
+Me: I—I don't know what I'm looking for.
+Librarian: Why did you ask me then?
+Librarian: Go away, explore for yourself. Don't bother me again.
 
 Go to the west hall [west hall]
 Go to the east hall [east hall]
