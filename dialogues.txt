@@ -24,6 +24,7 @@ Librarian: What kind of book? I can't show you if you're not being specific.
 Me: I—I don't know what I'm looking for.
 Librarian: Why did you ask me then?
 Librarian: Go away, explore for yourself. Don't bother me again.
+Maybe he's right. I should go somewhere else.
 
 Go to the west hall [west hall]
 Go to the east hall [east hall]
@@ -56,6 +57,9 @@ Girl: ??? city.
 Me: Is it just me or are you mumbling?
 Girl: Are you saying I can't talk? How dare you insult me like that!
 Me: I'm, I'm sorry. I should go.
+Why is it that every time I tried to talk to someone,
+they are always mad at me?
+Maybe I really suck at this.
 
 Go back to the main hall [library]
 Go to the west hall [west hall]
@@ -89,6 +93,7 @@ Me: I can't hear you clearly. I'm sorry. I should go.
 Someone: Can't you stop being so rude, man?!
 I stand up from the bench and go away.
 Why were they mad at me for no reason?
+Did I say something wrong?
 Maybe I should go somewhere else.
 
 Go back to the main park area [park]
