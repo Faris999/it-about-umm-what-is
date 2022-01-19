@@ -142,6 +142,47 @@ I go outside the house. I think that was wrong. I don't know what to do.
 ... [talk]
 
 [school]
-I'm in the school
+I'm in the school area.
+There kids are playing on the field.
+Or maybe I could also go inside, talk to the receptionist.
 
-... [empty]
+Go to the receptionist [receptionist]
+Go to the field [field]
+
+[field]
+I should go to the playground.
+I walk to the playground.
+I see a kid playing on the field. I should talk to him.
+Me: Hey, kid, are we in a loop?
+Kid: What loop are you talking about?
+Me: I don't know. I'm just trying to find out.
+Kid: Well, I'm gonna put this ball in a loop if you would SHUT UP!
+Me: I'm sorry. I should go.
+It feels like everything I do is wrong.
+
+Go back to the main school area [school]
+Go to the receptionist [receptionist]
+Go somewhere else [talk]
+
+[receptionist]
+I walk to the main building. I see a receptionist. I should talk to her.
+Me: Hello, can I ask you something?
+Receptionist: What is it you want?
+Me: Do you have any idea what this is, where am I, why am I here?
+Receptionist: What in the world are you talking about?
+Me: I don't know. I'm just trying to find out.
+Receptionist: If you're just gonna waste my time, why don't you go away?
+Me: Have we had this conversation before?
+Receptionist: Are you crazy or something?
+Me: Are we in a loop?
+Receptionist: What loop are you talking about?
+Me: I don't know. I'm just trying to find out.
+Receptionist: I'm not a detective. I'm just a receptionist.
+Receptionist: So, if you please, kindly GO AWAY FROM HERE YOU CRAZY!
+Me: I'm sorry. I should go.
+I really am a failure.
+I don't know anything.
+
+Go back to the main school area [school]
+Go to the field [field]
+Go somewhere else [talk]
