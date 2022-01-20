@@ -148,7 +148,7 @@ I go outside the house. I think that was wrong. I don't know what to do.
 
 [school]
 I'm in the school area.
-There kids are playing on the field.
+There are kids playing on the field.
 Or maybe I could also go inside, talk to the receptionist.
 
 Go to the receptionist [receptionist]
