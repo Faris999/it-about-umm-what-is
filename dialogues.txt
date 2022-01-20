@@ -39,8 +39,22 @@ Wait, I said that before. Is that?
 I immediately close the book. I'm scared.
 How could it contain exactly what I said earlier?
 
+Continue reading [continue reading]
 Go back to the main hall [library]
 Go to the east hall [east hall]
+Go outside [talk]
+
+[continue reading]
+I opened the book again, skipping the page I read earlier.
+I see an intriguing diagram. I should look at it.
+I look at the diagram. It looks like a map, a graph, or something.
+Library -> East Hall -> West Hall -> East Hall -> Library -> West Hall
+It looks like a loop.
+I don't know what it means through.
+
+Go back to the main hall [library]
+Go to the east hall [east hall]
+Go to the west hall [west hall]
 Go outside [talk]
 
 [east hall]
@@ -190,4 +204,48 @@ I don't know anything.
 
 Go back to the main school area [school]
 Go to the field [field]
+Go somewhere else [talk]
+
+[secret]
+Wait why is there a door here? It wasn't there before.
+Weird, maybe I should go in there. I should check it out.
+I open the door. Huh, it's not locked.
+I walk in. There's no one inside.
+I can only see a desk and a chair with a lot of books surrounding the room.
+I closed the door, and stayed inside.
+When I look back, I see someone sitting on the chair.
+She wasn't there before.
+Me: I'm sorry to bother you. I didn't know you were here.
+???: What is it are you doing here?
+Me: I saw a door that I believe it wasn't there before.
+Me: So I go right through in to see what's inside.
+???: How did you get in here? How did you find this place?
+Me: I, I saw a diagram. I followed it and saw the door.
+Me: I'm sorry. I should go.
+???: Wait, don't go yet.
+Me: What is it?
+???: I know the answer to your questions.
+Me: Really? Do you know where I am then? Why am I here?
+???: I'm afraid I can't tell you the answer.
+Me: But you said you know it.
+???: It is true that I know the answer, but I just can't tell you.
+Me: Excuse me?
+???: Time's up. You should go now.
+I promptly exit the room because I'm afraid of what she might do to me. 
+When she said that she knows the answer, I was excited.
+Finnaly, I would know the truth.
+But then, she said that she can't tell me the answer.
+Maybe I put too much expectation on her.
+Maybe I'm dissapointed in her because she didn't tell me.
+But I can't be pissed at her. 
+It feels wrong to feel disappointed with others
+because the disappointment comes from within.
+I created the disappointment myself.
+She has nothing to do with this.
+I'm responsible for my own feelings.
+Maybe I should go somewhere else.
+
+Go back to the main library area [library]
+Go to the west hall [west hall]
+Go to the east hall [east hall]
 Go somewhere else [talk]

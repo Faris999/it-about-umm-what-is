@@ -1,10 +1,15 @@
-from scene import SCENES
+from scene import SCENES, Option
+
+history = []
 
 # main game loop
 def main():
     current_scene = SCENES['beginning']
     while True:
         current_scene = current_scene.play()
+        history.append(current_scene.name)
+        if history[-6:] == ['library', 'east hall', 'west hall', 'east hall', 'library', 'west hall'] and 'continue reading' in history:
+            current_scene.options.options.append(Option('Go to the door', 'secret'))
         if current_scene == SCENES['empty']:
             # should be unreachable because there is no end scene
             print("You won!")
