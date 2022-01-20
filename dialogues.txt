@@ -249,3 +249,33 @@ Go back to the main library area [library]
 Go to the west hall [west hall]
 Go to the east hall [east hall]
 Go somewhere else [talk]
+
+[long]
+Hmm...
+How long have I been here?
+I've been here for too long.
+It's like I'm on a loop.
+Waiting, waiting, waiting.
+Waiting for answers hopelessly.
+Is this worth waiting for?
+Or maybe should I just stop doing this?
+I've been mindlessly wandering around,
+talking to people, yet I seem to annoy them a lot.
+Did I do something wrong?
+I guess I wasn't meant to do all of that.
+I'm just a complete failure.
+I can't fulfill their expectations.
+Why am I here then?
+What is my purpose here?
+If I'm just gonna go back to them again,
+go back all over again,
+talking to them, and getting back the same answers,
+then why am I here?
+Or maybe I just need to accept my fate.
+I am here,
+and will always be here,
+until I decide to stop.
+And until that time comes,
+I accept my futile existence.
+
+Go back [talk]
